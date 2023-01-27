@@ -1882,6 +1882,7 @@ Rishabh Pandey
 - [SK](https://github.com/skuperst)
 - [Dhiraj Patra](https://github.com/dhirajpatra)
 -[Weten-Ogen](https://github/com/Weten-Ogen)
+-[Harish-Satheesh](https://github.com/harishsatheesh)
 -[Monica-C.] (https://github.com/mcatcruz)
 -[Shaqeeb-Akhtar] (https://github.com/shaqeebwisdmlabs)
   -[ToastFreak] (https://github.com/ToastFreak777)
